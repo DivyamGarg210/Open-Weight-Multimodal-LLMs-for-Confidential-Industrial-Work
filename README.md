@@ -159,7 +159,7 @@ SIH/
 
 ## Default Credentials
 
-Set in `.env` via the `USERS` variable :
+Set in `.env` via the `USERS` variable:
 ```
 USERS=admin:admin123,engineer:eng456
 ```
